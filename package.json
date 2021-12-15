@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.45.0"
+  },
+  "name": "landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-watch": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentq1/landing.git"
+  },
+  "author": "silentq1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentq1/landing/issues"
+  },
+  "homepage": "https://github.com/silentq1/landing#readme",
+  "description": ""
+}
